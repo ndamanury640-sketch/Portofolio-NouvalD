@@ -1,9 +1,3 @@
-# PROGRAM KASIR SEDERHANA
-# NAMA : Raynar Rafif
-# KELAS : X - RPL
-# MAPEL : REKAYASA PERANGKAT LUNAK
-
-
 total_harga = 0
 
 while True:
